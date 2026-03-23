@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Mateus Morais from Brazil<br><br>- 📚 I'm currently learning Java, JavaScript and MySql<br>- ⚡ In my free time I play videogames and watch sports.</p>
+<p align="left">I'm Mateus Morais from Brazil<br><br>- 📚 I'm currently learning Java, SpringBoot and ReactJS<br>- ⚡ In my free time I play videogames and watch sports.</p>
 
 ###
 
